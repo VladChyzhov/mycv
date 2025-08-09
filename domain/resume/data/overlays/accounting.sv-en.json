@@ -1,0 +1,113 @@
+{
+  "en": {
+    "title": "Accountant – Order-to-Cash (Internship Applicant)",
+    "statementText": "Analytical accountant with 18+ years hands-on experience across Order-to-Cash (O2C), accounts receivable, credit control and master-data governance for trading and industrial SMEs. Expert user of ERP/finance suites (Visma, 1C ERP, SAP FI) and MS Office (Excel Power Query, VBA). Proven record of accelerating cash collection ↑ 20%, reducing overdue receivables ↓ 15% and building collaborative workflows with Sales & Customer-Service teams. Fluent in English (B2) and Swedish (B1). Eager to bring strong process mindset and customer focus to SKF's global finance hub.",
+    "workItems": [
+      {
+        "title": "Business Development / Finance Consultant",
+        "company": "Vysotsky Consulting, Sweden",
+        "year": "2024 – Present",
+        "description": "• Designed unified AR dashboards (Excel Power BI) → aged-debtor visibility ↑ 100%\n• Automated reminder & dunning letters in Visma/ERP; average DSO ↓ 8 days\n• Trained sales teams (20+ users) on credit limits, dispute coding and cash-application rules"
+      },
+      {
+        "title": "Owner / CFO",
+        "company": "Private Trading Enterprise, Ukraine",
+        "year": "2010 – 2022",
+        "description": "• Managed full O2C cycle: credit vetting, invoicing, cash application, dispute resolution\n• Implemented 1C ERP module 'Trade + AR'; manual postings ↓ 70%\n• Maintained customer master data for 250 accounts; pricing & tax codes 100% accurate\n• Collaborated daily with Sales & Logistics to release blocked orders and secure revenue flow"
+      },
+      {
+        "title": "Freelance Accounting Consultant",
+        "company": "Ukraine",
+        "year": "2004 – 2010",
+        "description": "• Set up AR ledgers for 15 SMEs; configured payment terms & ageing reports in ERP\n• Developed Excel-based cash-collection tracker adopted by all clients\n• Delivered workshops on IFRS 9 impairment and bad-debt provisioning"
+      },
+      {
+        "title": "Export Sales Director",
+        "company": "LLC AzovElitStroy",
+        "year": "2006-2007",
+        "description": "• Negotiated payment terms, secured $2M contracts"
+      },
+      {
+        "title": "Accounting & Finance",
+        "company": "Azov Steel Group",
+        "year": "2000-2006",
+        "description": "• Reconciled 30+ supplier & customer accounts, variance errors ↓ 12%"
+      }
+    ],
+    "educationItems": [
+      {
+        "title": "MSc Business Economics (SeQF 7)",
+        "company": "PSTU, Ukraine",
+        "year": "2000",
+        "description": "Accounting & Finance"
+      },
+      {
+        "title": "BSc Economics (SeQF 6)",
+        "company": "PSTU, Ukraine",
+        "year": "1999",
+        "description": "Economics"
+      },
+      {
+        "title": "PhD coursework (incomplete)",
+        "company": "PSTU",
+        "year": "2000-2002",
+        "description": "Organisation Planning & Enterprise Economics"
+      }
+    ],
+    "skills": [
+      "Order-to-Cash Cycle & AR Collections",
+      "Credit Risk & Customer Master Data",
+      "Period-End Closing & Reconciliations",
+      "ERP / Finance Systems (Visma, 1C ERP, SAP FI)",
+      "Advanced Excel (Power Pivot, VBA) & Power BI",
+      "Cross-functional Collaboration (Sales, Logistics)",
+      "Continuous Improvement (Lean, VSM)"
+    ],
+    "personalSkillsItems": [
+      "Customer-Centric",
+      "Quality-Driven",
+      "Team Player",
+      "Continuous Improvement",
+      "Lagom"
+    ],
+    "languageSkills": [
+      { "name": "Swedish", "level": "B1" },
+      { "name": "English", "level": "B2" },
+      { "name": "Ukrainian", "level": "C2" },
+      { "name": "Russian", "level": "C2" }
+    ],
+    "certificationItems": [
+      "2025 Business Development Consultant — Vysotsky Consulting",
+      "2025 AI-Automation Specialist — n8n, LangChain, ChatGPT API",
+      "2024 Python for Business Analytics — Coursera",
+      "2023 UX/UI & Web Design — Udemy"
+    ],
+    "keyAchievements": [
+      "↑ 20% Acceleration of cash collection after introducing automated dunning in ERP",
+      "↓ 15% Reduction in overdue AR > 60 days via redesigned credit-block workflow",
+      "100% On-time month-end AR close for 48 consecutive periods"
+    ],
+    "values": [
+      "Customer-Centric",
+      "Quality-Driven",
+      "Team Player",
+      "Continuous Improvement",
+      "Lagom"
+    ]
+  },
+  "sv": {
+    "title": "Redovisning – Order-to-Cash (Praktik)",
+    "statementText": "Analytisk redovisare med 18+ års praktisk erfarenhet inom Order-to-Cash (O2C), kundreskontra, kreditkontroll och masterdata-styrning för handels- och industriföretag. Expert på ERP/ekonomisystem (Visma, 1C ERP, SAP FI) och MS Office (Excel Power Query, VBA). Visat resultat: kassainhämtning ↑ 20%, förfallna fordringar ↓ 15% och samarbetsflöden med sälj- och kundtjänstteam. Flytande engelska (B2) och svenska (B1).",
+    "skills": [
+      "Order-to-Cash & Kundreskontra",
+      "Kreditrisk & Kundmasterdata",
+      "Periodavslut & Avstämningar",
+      "ERP/Ekonomisystem (Visma, 1C ERP, SAP FI)",
+      "Avancerad Excel (Power Pivot, VBA) & Power BI",
+      "Tvärfunktionellt samarbete (Sälj, Logistik)",
+      "Ständiga förbättringar (Lean, VSM)"
+    ]
+  }
+}
+
+

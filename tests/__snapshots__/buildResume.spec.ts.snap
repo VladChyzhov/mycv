@@ -1,0 +1,815 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`build accounting (sv) passes validation and matches snapshot 1`] = `
+{
+  "basics": {
+    "email": "vlad.chyzhov78@gmail.com",
+    "labels": {
+      "certifications": {
+        "en": "CERTIFICATIONS",
+        "ru": "СЕРТИФИКАТЫ",
+        "sv": "CERTIFIERINGAR",
+      },
+      "downloadDocx": {
+        "en": "Download DOCX",
+        "ru": "Скачать DOCX",
+        "sv": "Ladda ner DOCX",
+      },
+      "downloadPdf": {
+        "en": "Download PDF",
+        "ru": "Скачать PDF",
+        "sv": "Ladda ner PDF",
+      },
+      "education": {
+        "en": "EDUCATION",
+        "ru": "ОБРАЗОВАНИЕ",
+        "sv": "UTBILDNING",
+      },
+      "hobbies": {
+        "en": "HOBBIES AND INTERESTS",
+        "ru": "ХОББИ И ИНТЕРЕСЫ",
+        "sv": "HOBBYER OCH INTRESSEN",
+      },
+      "languages": {
+        "en": "LANGUAGES",
+        "ru": "ЯЗЫКИ",
+        "sv": "SPRÅK",
+      },
+      "personalSkills": {
+        "en": "PERSONAL SKILLS",
+        "ru": "ЛИЧНЫЕ КАЧЕСТВА",
+        "sv": "PERSONLIGA EGENSKAPER",
+      },
+      "proSkills": {
+        "en": "PROFESSIONAL SKILLS",
+        "ru": "ПРОФЕССИОНАЛЬНЫЕ НАВЫКИ",
+        "sv": "PROFESSIONELLA FÄRDIGHETER",
+      },
+      "statement": {
+        "en": "RESUME",
+        "ru": "РЕЗЮМЕ",
+        "sv": "CV",
+      },
+      "workExperience": {
+        "en": "WORK EXPERIENCE",
+        "ru": "ОПЫТ РАБОТЫ",
+        "sv": "ARBETSLIVSERFARENHET",
+      },
+    },
+    "location": {
+      "en": "Stenungsund, Sweden",
+      "ru": "Stenungsund, Sweden",
+      "sv": "Stenungsund, Sweden",
+    },
+    "name": {
+      "en": "Vladyslav Chyzhov",
+      "ru": "Владислав Чижов",
+      "sv": "Vladyslav Chyzhov",
+    },
+    "phone": "+46 76 247 5916",
+    "title": {
+      "en": "Business Transformation & Finance Consultant",
+      "ru": "Консультант по бизнес-трансформации и финансам",
+      "sv": "Affärstransformations- och Finanskonsult",
+    },
+    "website": "vladchyzhov.com",
+  },
+  "certificationItems": [
+    {
+      "en": "Business Development Consultant — Vysotsky Consulting (2025)",
+      "ru": "Консультант по развитию бизнеса — Vysotsky Consulting (2025)",
+      "sv": "Affärsutvecklingskonsult — Vysotsky Consulting (2025)",
+    },
+    {
+      "en": "AI-Automation Specialist — n8n, LangChain, ChatGPT API (2025)",
+      "ru": "Специалист по AI-автоматизации — n8n, LangChain, ChatGPT API (2025)",
+      "sv": "AI-automationsspecialist — n8n, LangChain, ChatGPT API (2025)",
+    },
+    {
+      "en": "Python for Business Analytics — Coursera (2024)",
+      "ru": "Python для бизнес-аналитики — Coursera (2024)",
+      "sv": "Python för affärsanalys — Coursera (2024)",
+    },
+    {
+      "en": "UX/UI & Web Design — Udemy (2023)",
+      "ru": "UX/UI и веб-дизайн — Udemy (2023)",
+      "sv": "UX/UI och webbdesign — Udemy (2023)",
+    },
+  ],
+  "educationItems": [
+    {
+      "company": {
+        "en": "PSTU",
+        "ru": "PSTU",
+        "sv": "PSTU",
+      },
+      "description": {
+        "en": "Business Economics",
+        "ru": "Бизнес-экономика",
+        "sv": "Företagsekonomi",
+      },
+      "title": {
+        "en": "MSc Business Economics (SeQF 7)",
+        "ru": "Магистр экономики (SeQF 7)",
+        "sv": "Magisterexamen Företagsekonomi (SeQF 7)",
+      },
+      "year": "2000",
+    },
+    {
+      "company": {
+        "en": "PSTU",
+        "ru": "PSTU",
+        "sv": "PSTU",
+      },
+      "description": {
+        "en": "Economics",
+        "ru": "Экономика",
+        "sv": "Ekonomi",
+      },
+      "title": {
+        "en": "BSc Economics (SeQF 6)",
+        "ru": "Бакалавр экономики (SeQF 6)",
+        "sv": "Kandidatexamen Ekonomi (SeQF 6)",
+      },
+      "year": "1999",
+    },
+    {
+      "company": {
+        "en": "PSTU",
+        "ru": "PSTU",
+        "sv": "PSTU",
+      },
+      "description": {
+        "en": "Organisation Planning & Enterprise Economics",
+        "ru": "Организация планирования и экономика предприятия",
+        "sv": "Organisationsplanering och företagsekonomi",
+      },
+      "title": {
+        "en": "PhD coursework (incomplete)",
+        "ru": "Аспирантура (незавершенная)",
+        "sv": "Forskarutbildning (ofullständig)",
+      },
+      "year": "2000-2002",
+    },
+  ],
+  "keyAchievements": [
+    {
+      "en": "50% Process Speed Increase via full ERP automation (2022)",
+      "ru": "50% Process Speed Increase via full ERP automation (2022)",
+      "sv": "50% Process Speed Increase via full ERP automation (2022)",
+    },
+    {
+      "en": "$150k MRR Turnover restored in 9 months post-COVID through e-commerce launch (2021)",
+      "ru": "$150k MRR Turnover restored in 9 months post-COVID through e-commerce launch (2021)",
+      "sv": "$150k MRR Turnover restored in 9 months post-COVID through e-commerce launch (2021)",
+    },
+    {
+      "en": "15% Average tax burden cut for 15 SMEs (2004-2020)",
+      "ru": "15% Average tax burden cut for 15 SMEs (2004-2020)",
+      "sv": "15% Average tax burden cut for 15 SMEs (2004-2020)",
+    },
+  ],
+  "languageSkills": [
+    {
+      "level": "B1",
+      "name": {
+        "en": "Swedish",
+        "ru": "Swedish",
+        "sv": "Svenska",
+      },
+    },
+    {
+      "level": "B2",
+      "name": {
+        "en": "English",
+        "ru": "English",
+        "sv": "Engelska",
+      },
+    },
+    {
+      "level": "C2",
+      "name": {
+        "en": "Ukrainian",
+        "ru": "Ukrainian",
+        "sv": "Ukrainska",
+      },
+    },
+    {
+      "level": "C2",
+      "name": {
+        "en": "Russian",
+        "ru": "Russian",
+        "sv": "Ryska",
+      },
+    },
+  ],
+  "meta": {
+    "order": [
+      "basics",
+      "workItems",
+      "educationItems",
+      "skills",
+    ],
+  },
+  "personalSkillsItems": [
+    {
+      "en": "Leadership",
+      "ru": "Лидерство",
+      "sv": "Ledarskap",
+    },
+    {
+      "en": "Communication",
+      "ru": "Коммуникация",
+      "sv": "Kommunikation",
+    },
+    {
+      "en": "Creativity",
+      "ru": "Креативность",
+      "sv": "Kreativitet",
+    },
+    {
+      "en": "Organization",
+      "ru": "Организация",
+      "sv": "Organisation",
+    },
+    {
+      "en": "Management",
+      "ru": "Управление",
+      "sv": "Ledning",
+    },
+  ],
+  "skills": [
+    {
+      "en": "Digital Process Automation",
+      "ru": "Цифровая автоматизация процессов",
+      "sv": "Digital processautomatisering",
+    },
+    {
+      "en": "Management & Tax Accounting",
+      "ru": "Управленческий и налоговый учет",
+      "sv": "Ekonomistyrning och skatteredovisning",
+    },
+    {
+      "en": "KPI & Dashboard Design",
+      "ru": "KPI и дизайн дашбордов",
+      "sv": "KPI och dashboard-design",
+    },
+    {
+      "en": "Cost & Tax Optimisation",
+      "ru": "Оптимизация затрат и налогов",
+      "sv": "Kostnads- och skatteoptimering",
+    },
+    {
+      "en": "Organisational Design",
+      "ru": "Организационный дизайн",
+      "sv": "Organisationsdesign",
+    },
+    {
+      "en": "Data Analytics & Forecasting",
+      "ru": "Анализ данных и прогнозирование",
+      "sv": "Dataanalys och prognoser",
+    },
+    {
+      "en": "Coaching & Team Leadership",
+      "ru": "Коучинг и лидерство команды",
+      "sv": "Coaching och teamledning",
+    },
+  ],
+  "statementText": {
+    "en": "Business-transformation leader with 20+ years driving profitable growth for trading & industrial SMEs. Build data-driven accounting/KPI systems and automate workflows with Python & ERP. Scaled revenue to $1.8M ARR, cut tax burden 15%, boosted process speed 50%. Ready to replicate success across Scandinavia.",
+    "ru": "Лидер бизнес-трансформации с 20+ годами опыта, обеспечивающий прибыльный рост для торговых и промышленных МСП. Создаю системы учета/KPI на основе данных и автоматизирую рабочие процессы с помощью Python и ERP. Увеличил выручку до $1.8 млн ARR, сократил налоговую нагрузку на 15%, повысил скорость процессов на 50%. Готов повторить успех по всей Скандинавии.",
+    "sv": "Affärstransformationsledare med 20+ års erfarenhet av att driva lönsam tillväxt för handels- och industriföretag. Bygger datadrivna redovisnings-/KPI-system och automatiserar arbetsflöden med Python och ERP. Skalade intäkter till $1.8M ARR, minskade skattebördan med 15%, ökade processhastigheten med 50%. Redo att replikera framgång över hela Skandinavien.",
+  },
+  "values": [
+    {
+      "en": "Lagom",
+      "ru": "Lagom",
+      "sv": "Lagom",
+    },
+    {
+      "en": "Trust",
+      "ru": "Förtroende",
+      "sv": "Förtroende",
+    },
+    {
+      "en": "Lifelong learning",
+      "ru": "Lifelong learning",
+      "sv": "Livslångt lärande",
+    },
+  ],
+  "workItems": [
+    {
+      "company": {
+        "en": "Vysotsky Consulting, Sweden",
+        "ru": "Vysotsky Consulting, Швеция",
+        "sv": "Vysotsky Consulting, Sverige",
+      },
+      "description": {
+        "en": "• Coached 20+ SME owners; average EBITDA up 26% in 3 months
+• Removed process bottlenecks (VSM) → lead-time ↓ 18%
+• Designed OKR/KPI suites; rolled out in six companies",
+        "ru": "• Провел коучинг для 20+ владельцев МСП; средний EBITDA вырос на 26% за 3 месяца
+• Устранил узкие места в процессах (VSM) → время выполнения ↓ 18%
+• Разработал системы OKR/KPI; внедрил в шести компаниях",
+        "sv": "• Coachade 20+ småföretagare; genomsnittlig EBITDA upp 26% på 3 månader
+• Eliminerade processflaskhalsar (VSM) → ledtid ↓ 18%
+• Utformade OKR/KPI-system; implementerade i sex företag",
+      },
+      "title": {
+        "en": "Business Development Consultant",
+        "ru": "Консультант по развитию бизнеса",
+        "sv": "Affärsutvecklingskonsult",
+      },
+      "year": "2024-2025",
+    },
+    {
+      "company": {
+        "en": "Private Trading Enterprise, Ukraine",
+        "ru": "Частное торговое предприятие, Украина",
+        "sv": "Privat handelsföretag, Ukraina",
+      },
+      "description": {
+        "en": "• Scaled firm to 15 FTE, 1000+ SKU, $1.8M ARR
+• Deployed 1C ERP + Excel VBA; manual reporting time ↓ 70%
+• Launched omnichannel sales; turnover ↑ to $150K MRR in nine months",
+        "ru": "• Масштабировал компанию до 15 сотрудников, 1000+ SKU, $1.8 млн ARR
+• Внедрил 1C ERP + Excel VBA; время ручной отчетности ↓ 70%
+• Запустил омниканальные продажи; оборот ↑ до $150 тыс. MRR за девять месяцев",
+        "sv": "• Skalade företaget till 15 anställda, 1000+ artiklar, $1.8M ARR
+• Implementerade 1C ERP + Excel VBA; manuell rapporteringstid ↓ 70%
+• Lanserade omnikanal-försäljning; omsättning ↑ till $150K MRR på nio månader",
+      },
+      "title": {
+        "en": "Owner / Chief Executive Officer",
+        "ru": "Собственник / Генеральный директор",
+        "sv": "Ägare / VD",
+      },
+      "year": "2010-2022",
+    },
+    {
+      "company": {
+        "en": "Ukraine",
+        "ru": "Украина",
+        "sv": "Ukraina",
+      },
+      "description": {
+        "en": "• Built management & tax accounting for 15 SMEs; payments ↓ 15%
+• Trained 40+ accountants/owners in IFRS and BI dashboards",
+        "ru": "• Создал управленческий и налоговый учет для 15 МСП; платежи ↓ 15%
+• Обучил 40+ бухгалтеров/владельцев IFRS и BI-дашбордам",
+        "sv": "• Byggde ekonomistyrning och skatteredovisning för 15 småföretag; betalningar ↓ 15%
+• Tränade 40+ revisorer/ägare i IFRS och BI-dashboarder",
+      },
+      "title": {
+        "en": "Freelance Finance Consultant",
+        "ru": "Фриланс-консультант по финансам",
+        "sv": "Frilans finanskonsult",
+      },
+      "year": "2004-2010",
+    },
+    {
+      "company": {
+        "en": "LLC AzovElitStroy",
+        "ru": "LLC AzovElitStroy",
+        "sv": "LLC AzovElitStroy",
+      },
+      "description": {
+        "en": "Closed $2M steel & gas-cylinder contracts",
+        "ru": "Закрыл контракты на $2 млн на сталь и газовые баллоны",
+        "sv": "Stängde $2M kontrakt för stål och gasflaskor",
+      },
+      "title": {
+        "en": "Export Sales Director",
+        "ru": "Директор по экспортным продажам",
+        "sv": "Exportförsäljningsdirektör",
+      },
+      "year": "2006-2007",
+    },
+    {
+      "company": {
+        "en": "Azov Steel Group",
+        "ru": "Azov Steel Group",
+        "sv": "Azov Steel Group",
+      },
+      "description": {
+        "en": "Led 30 supply-chain audits; losses ↓ 12%",
+        "ru": "Провел 30 аудитов цепочки поставок; потери ↓ 12%",
+        "sv": "Ledde 30 leverantörskedje-revisioner; förluster ↓ 12%",
+      },
+      "title": {
+        "en": "Accounting & Finance",
+        "ru": "Бухгалтерия и финансы",
+        "sv": "Redovisning och finans",
+      },
+      "year": "2000-2006",
+    },
+  ],
+}
+`;
+
+exports[`build administrative (sv) passes validation and matches snapshot 1`] = `
+{
+  "basics": {
+    "email": "vlad.chyzhov78@gmail.com",
+    "labels": {
+      "certifications": {
+        "en": "CERTIFICATIONS",
+        "ru": "СЕРТИФИКАТЫ",
+        "sv": "CERTIFIERINGAR",
+      },
+      "downloadDocx": {
+        "en": "Download DOCX",
+        "ru": "Скачать DOCX",
+        "sv": "Ladda ner DOCX",
+      },
+      "downloadPdf": {
+        "en": "Download PDF",
+        "ru": "Скачать PDF",
+        "sv": "Ladda ner PDF",
+      },
+      "education": {
+        "en": "EDUCATION",
+        "ru": "ОБРАЗОВАНИЕ",
+        "sv": "UTBILDNING",
+      },
+      "hobbies": {
+        "en": "HOBBIES AND INTERESTS",
+        "ru": "ХОББИ И ИНТЕРЕСЫ",
+        "sv": "HOBBYER OCH INTRESSEN",
+      },
+      "languages": {
+        "en": "LANGUAGES",
+        "ru": "ЯЗЫКИ",
+        "sv": "SPRÅK",
+      },
+      "personalSkills": {
+        "en": "PERSONAL SKILLS",
+        "ru": "ЛИЧНЫЕ КАЧЕСТВА",
+        "sv": "PERSONLIGA EGENSKAPER",
+      },
+      "proSkills": {
+        "en": "PROFESSIONAL SKILLS",
+        "ru": "ПРОФЕССИОНАЛЬНЫЕ НАВЫКИ",
+        "sv": "PROFESSIONELLA FÄRDIGHETER",
+      },
+      "statement": {
+        "en": "RESUME",
+        "ru": "РЕЗЮМЕ",
+        "sv": "CV",
+      },
+      "workExperience": {
+        "en": "WORK EXPERIENCE",
+        "ru": "ОПЫТ РАБОТЫ",
+        "sv": "ARBETSLIVSERFARENHET",
+      },
+    },
+    "location": {
+      "en": "Stenungsund, Sweden",
+      "ru": "Stenungsund, Sweden",
+      "sv": "Stenungsund, Sweden",
+    },
+    "name": {
+      "en": "Vladyslav Chyzhov",
+      "ru": "Владислав Чижов",
+      "sv": "Vladyslav Chyzhov",
+    },
+    "phone": "+46 76 247 5916",
+    "title": {
+      "en": "Business Transformation & Finance Consultant",
+      "ru": "Консультант по бизнес-трансформации и финансам",
+      "sv": "Affärstransformations- och Finanskonsult",
+    },
+    "website": "vladchyzhov.com",
+  },
+  "certificationItems": [
+    {
+      "en": "Business Development Consultant — Vysotsky Consulting (2025)",
+      "ru": "Консультант по развитию бизнеса — Vysotsky Consulting (2025)",
+      "sv": "Affärsutvecklingskonsult — Vysotsky Consulting (2025)",
+    },
+    {
+      "en": "AI-Automation Specialist — n8n, LangChain, ChatGPT API (2025)",
+      "ru": "Специалист по AI-автоматизации — n8n, LangChain, ChatGPT API (2025)",
+      "sv": "AI-automationsspecialist — n8n, LangChain, ChatGPT API (2025)",
+    },
+    {
+      "en": "Python for Business Analytics — Coursera (2024)",
+      "ru": "Python для бизнес-аналитики — Coursera (2024)",
+      "sv": "Python för affärsanalys — Coursera (2024)",
+    },
+    {
+      "en": "UX/UI & Web Design — Udemy (2023)",
+      "ru": "UX/UI и веб-дизайн — Udemy (2023)",
+      "sv": "UX/UI och webbdesign — Udemy (2023)",
+    },
+  ],
+  "educationItems": [
+    {
+      "company": {
+        "en": "PSTU",
+        "ru": "PSTU",
+        "sv": "PSTU",
+      },
+      "description": {
+        "en": "Business Economics",
+        "ru": "Бизнес-экономика",
+        "sv": "Företagsekonomi",
+      },
+      "title": {
+        "en": "MSc Business Economics (SeQF 7)",
+        "ru": "Магистр экономики (SeQF 7)",
+        "sv": "Magisterexamen Företagsekonomi (SeQF 7)",
+      },
+      "year": "2000",
+    },
+    {
+      "company": {
+        "en": "PSTU",
+        "ru": "PSTU",
+        "sv": "PSTU",
+      },
+      "description": {
+        "en": "Economics",
+        "ru": "Экономика",
+        "sv": "Ekonomi",
+      },
+      "title": {
+        "en": "BSc Economics (SeQF 6)",
+        "ru": "Бакалавр экономики (SeQF 6)",
+        "sv": "Kandidatexamen Ekonomi (SeQF 6)",
+      },
+      "year": "1999",
+    },
+    {
+      "company": {
+        "en": "PSTU",
+        "ru": "PSTU",
+        "sv": "PSTU",
+      },
+      "description": {
+        "en": "Organisation Planning & Enterprise Economics",
+        "ru": "Организация планирования и экономика предприятия",
+        "sv": "Organisationsplanering och företagsekonomi",
+      },
+      "title": {
+        "en": "PhD coursework (incomplete)",
+        "ru": "Аспирантура (незавершенная)",
+        "sv": "Forskarutbildning (ofullständig)",
+      },
+      "year": "2000-2002",
+    },
+  ],
+  "keyAchievements": [
+    {
+      "en": "50% Process Speed Increase via full ERP automation (2022)",
+      "ru": "50% Process Speed Increase via full ERP automation (2022)",
+      "sv": "50% Process Speed Increase via full ERP automation (2022)",
+    },
+    {
+      "en": "$150k MRR Turnover restored in 9 months post-COVID through e-commerce launch (2021)",
+      "ru": "$150k MRR Turnover restored in 9 months post-COVID through e-commerce launch (2021)",
+      "sv": "$150k MRR Turnover restored in 9 months post-COVID through e-commerce launch (2021)",
+    },
+    {
+      "en": "15% Average tax burden cut for 15 SMEs (2004-2020)",
+      "ru": "15% Average tax burden cut for 15 SMEs (2004-2020)",
+      "sv": "15% Average tax burden cut for 15 SMEs (2004-2020)",
+    },
+  ],
+  "languageSkills": [
+    {
+      "level": "B1",
+      "name": {
+        "en": "Swedish",
+        "ru": "Swedish",
+        "sv": "Svenska",
+      },
+    },
+    {
+      "level": "B2",
+      "name": {
+        "en": "English",
+        "ru": "English",
+        "sv": "Engelska",
+      },
+    },
+    {
+      "level": "C2",
+      "name": {
+        "en": "Ukrainian",
+        "ru": "Ukrainian",
+        "sv": "Ukrainska",
+      },
+    },
+    {
+      "level": "C2",
+      "name": {
+        "en": "Russian",
+        "ru": "Russian",
+        "sv": "Ryska",
+      },
+    },
+  ],
+  "meta": {
+    "order": [
+      "basics",
+      "workItems",
+      "educationItems",
+      "skills",
+    ],
+  },
+  "personalSkillsItems": [
+    {
+      "en": "Leadership",
+      "ru": "Лидерство",
+      "sv": "Ledarskap",
+    },
+    {
+      "en": "Communication",
+      "ru": "Коммуникация",
+      "sv": "Kommunikation",
+    },
+    {
+      "en": "Creativity",
+      "ru": "Креативность",
+      "sv": "Kreativitet",
+    },
+    {
+      "en": "Organization",
+      "ru": "Организация",
+      "sv": "Organisation",
+    },
+    {
+      "en": "Management",
+      "ru": "Управление",
+      "sv": "Ledning",
+    },
+  ],
+  "skills": [
+    {
+      "en": "Digital Process Automation",
+      "ru": "Цифровая автоматизация процессов",
+      "sv": "Digital processautomatisering",
+    },
+    {
+      "en": "Management & Tax Accounting",
+      "ru": "Управленческий и налоговый учет",
+      "sv": "Ekonomistyrning och skatteredovisning",
+    },
+    {
+      "en": "KPI & Dashboard Design",
+      "ru": "KPI и дизайн дашбордов",
+      "sv": "KPI och dashboard-design",
+    },
+    {
+      "en": "Cost & Tax Optimisation",
+      "ru": "Оптимизация затрат и налогов",
+      "sv": "Kostnads- och skatteoptimering",
+    },
+    {
+      "en": "Organisational Design",
+      "ru": "Организационный дизайн",
+      "sv": "Organisationsdesign",
+    },
+    {
+      "en": "Data Analytics & Forecasting",
+      "ru": "Анализ данных и прогнозирование",
+      "sv": "Dataanalys och prognoser",
+    },
+    {
+      "en": "Coaching & Team Leadership",
+      "ru": "Коучинг и лидерство команды",
+      "sv": "Coaching och teamledning",
+    },
+  ],
+  "statementText": {
+    "en": "Business-transformation leader with 20+ years driving profitable growth for trading & industrial SMEs. Build data-driven accounting/KPI systems and automate workflows with Python & ERP. Scaled revenue to $1.8M ARR, cut tax burden 15%, boosted process speed 50%. Ready to replicate success across Scandinavia.",
+    "ru": "Лидер бизнес-трансформации с 20+ годами опыта, обеспечивающий прибыльный рост для торговых и промышленных МСП. Создаю системы учета/KPI на основе данных и автоматизирую рабочие процессы с помощью Python и ERP. Увеличил выручку до $1.8 млн ARR, сократил налоговую нагрузку на 15%, повысил скорость процессов на 50%. Готов повторить успех по всей Скандинавии.",
+    "sv": "Affärstransformationsledare med 20+ års erfarenhet av att driva lönsam tillväxt för handels- och industriföretag. Bygger datadrivna redovisnings-/KPI-system och automatiserar arbetsflöden med Python och ERP. Skalade intäkter till $1.8M ARR, minskade skattebördan med 15%, ökade processhastigheten med 50%. Redo att replikera framgång över hela Skandinavien.",
+  },
+  "values": [
+    {
+      "en": "Lagom",
+      "ru": "Lagom",
+      "sv": "Lagom",
+    },
+    {
+      "en": "Trust",
+      "ru": "Förtroende",
+      "sv": "Förtroende",
+    },
+    {
+      "en": "Lifelong learning",
+      "ru": "Lifelong learning",
+      "sv": "Livslångt lärande",
+    },
+  ],
+  "workItems": [
+    {
+      "company": {
+        "en": "Vysotsky Consulting, Sweden",
+        "ru": "Vysotsky Consulting, Швеция",
+        "sv": "Vysotsky Consulting, Sverige",
+      },
+      "description": {
+        "en": "• Coached 20+ SME owners; average EBITDA up 26% in 3 months
+• Removed process bottlenecks (VSM) → lead-time ↓ 18%
+• Designed OKR/KPI suites; rolled out in six companies",
+        "ru": "• Провел коучинг для 20+ владельцев МСП; средний EBITDA вырос на 26% за 3 месяца
+• Устранил узкие места в процессах (VSM) → время выполнения ↓ 18%
+• Разработал системы OKR/KPI; внедрил в шести компаниях",
+        "sv": "• Coachade 20+ småföretagare; genomsnittlig EBITDA upp 26% på 3 månader
+• Eliminerade processflaskhalsar (VSM) → ledtid ↓ 18%
+• Utformade OKR/KPI-system; implementerade i sex företag",
+      },
+      "title": {
+        "en": "Business Development Consultant",
+        "ru": "Консультант по развитию бизнеса",
+        "sv": "Affärsutvecklingskonsult",
+      },
+      "year": "2024-2025",
+    },
+    {
+      "company": {
+        "en": "Private Trading Enterprise, Ukraine",
+        "ru": "Частное торговое предприятие, Украина",
+        "sv": "Privat handelsföretag, Ukraina",
+      },
+      "description": {
+        "en": "• Scaled firm to 15 FTE, 1000+ SKU, $1.8M ARR
+• Deployed 1C ERP + Excel VBA; manual reporting time ↓ 70%
+• Launched omnichannel sales; turnover ↑ to $150K MRR in nine months",
+        "ru": "• Масштабировал компанию до 15 сотрудников, 1000+ SKU, $1.8 млн ARR
+• Внедрил 1C ERP + Excel VBA; время ручной отчетности ↓ 70%
+• Запустил омниканальные продажи; оборот ↑ до $150 тыс. MRR за девять месяцев",
+        "sv": "• Skalade företaget till 15 anställda, 1000+ artiklar, $1.8M ARR
+• Implementerade 1C ERP + Excel VBA; manuell rapporteringstid ↓ 70%
+• Lanserade omnikanal-försäljning; omsättning ↑ till $150K MRR på nio månader",
+      },
+      "title": {
+        "en": "Owner / Chief Executive Officer",
+        "ru": "Собственник / Генеральный директор",
+        "sv": "Ägare / VD",
+      },
+      "year": "2010-2022",
+    },
+    {
+      "company": {
+        "en": "Ukraine",
+        "ru": "Украина",
+        "sv": "Ukraina",
+      },
+      "description": {
+        "en": "• Built management & tax accounting for 15 SMEs; payments ↓ 15%
+• Trained 40+ accountants/owners in IFRS and BI dashboards",
+        "ru": "• Создал управленческий и налоговый учет для 15 МСП; платежи ↓ 15%
+• Обучил 40+ бухгалтеров/владельцев IFRS и BI-дашбордам",
+        "sv": "• Byggde ekonomistyrning och skatteredovisning för 15 småföretag; betalningar ↓ 15%
+• Tränade 40+ revisorer/ägare i IFRS och BI-dashboarder",
+      },
+      "title": {
+        "en": "Freelance Finance Consultant",
+        "ru": "Фриланс-консультант по финансам",
+        "sv": "Frilans finanskonsult",
+      },
+      "year": "2004-2010",
+    },
+    {
+      "company": {
+        "en": "LLC AzovElitStroy",
+        "ru": "LLC AzovElitStroy",
+        "sv": "LLC AzovElitStroy",
+      },
+      "description": {
+        "en": "Closed $2M steel & gas-cylinder contracts",
+        "ru": "Закрыл контракты на $2 млн на сталь и газовые баллоны",
+        "sv": "Stängde $2M kontrakt för stål och gasflaskor",
+      },
+      "title": {
+        "en": "Export Sales Director",
+        "ru": "Директор по экспортным продажам",
+        "sv": "Exportförsäljningsdirektör",
+      },
+      "year": "2006-2007",
+    },
+    {
+      "company": {
+        "en": "Azov Steel Group",
+        "ru": "Azov Steel Group",
+        "sv": "Azov Steel Group",
+      },
+      "description": {
+        "en": "Led 30 supply-chain audits; losses ↓ 12%",
+        "ru": "Провел 30 аудитов цепочки поставок; потери ↓ 12%",
+        "sv": "Ledde 30 leverantörskedje-revisioner; förluster ↓ 12%",
+      },
+      "title": {
+        "en": "Accounting & Finance",
+        "ru": "Бухгалтерия и финансы",
+        "sv": "Redovisning och finans",
+      },
+      "year": "2000-2006",
+    },
+  ],
+}
+`;

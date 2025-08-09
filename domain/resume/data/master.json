@@ -1,0 +1,307 @@
+{
+  "ru": {
+    "name": "Владислав Чижов",
+    "title": "Консультант по бизнес-трансформации и финансам",
+    "downloadPdf": "Скачать PDF",
+    "downloadDocx": "Скачать DOCX",
+    "statement": "РЕЗЮМЕ",
+    "workExperience": "ОПЫТ РАБОТЫ",
+    "education": "ОБРАЗОВАНИЕ",
+    "proSkills": "ПРОФЕССИОНАЛЬНЫЕ НАВЫКИ",
+    "personalSkills": "ЛИЧНЫЕ КАЧЕСТВА",
+    "hobbies": "ХОББИ И ИНТЕРЕСЫ",
+    "languages": "ЯЗЫКИ",
+    "certifications": "СЕРТИФИКАТЫ",
+    "statementText": "Лидер бизнес-трансформации с 20+ годами опыта, обеспечивающий прибыльный рост для торговых и промышленных МСП. Создаю системы учета/KPI на основе данных и автоматизирую рабочие процессы с помощью Python и ERP. Увеличил выручку до $1.8 млн ARR, сократил налоговую нагрузку на 15%, повысил скорость процессов на 50%. Готов повторить успех по всей Скандинавии.",
+    "workItems": [
+      {
+        "year": "2024-2025",
+        "title": "Консультант по развитию бизнеса",
+        "company": "Vysotsky Consulting, Швеция",
+        "description": "• Провел коучинг для 20+ владельцев МСП; средний EBITDA вырос на 26% за 3 месяца\n• Устранил узкие места в процессах (VSM) → время выполнения ↓ 18%\n• Разработал системы OKR/KPI; внедрил в шести компаниях"
+      },
+      {
+        "year": "2010-2022",
+        "title": "Собственник / Генеральный директор",
+        "company": "Частное торговое предприятие, Украина",
+        "description": "• Масштабировал компанию до 15 сотрудников, 1000+ SKU, $1.8 млн ARR\n• Внедрил 1C ERP + Excel VBA; время ручной отчетности ↓ 70%\n• Запустил омниканальные продажи; оборот ↑ до $150 тыс. MRR за девять месяцев"
+      },
+      {
+        "year": "2004-2010",
+        "title": "Фриланс-консультант по финансам",
+        "company": "Украина",
+        "description": "• Создал управленческий и налоговый учет для 15 МСП; платежи ↓ 15%\n• Обучил 40+ бухгалтеров/владельцев IFRS и BI-дашбордам"
+      },
+      {
+        "year": "2006-2007",
+        "title": "Директор по экспортным продажам",
+        "company": "LLC AzovElitStroy",
+        "description": "Закрыл контракты на $2 млн на сталь и газовые баллоны"
+      },
+      {
+        "year": "2000-2006",
+        "title": "Бухгалтерия и финансы",
+        "company": "Azov Steel Group",
+        "description": "Провел 30 аудитов цепочки поставок; потери ↓ 12%"
+      }
+    ],
+    "educationItems": [
+      {
+        "year": "2000",
+        "title": "Магистр экономики (SeQF 7)",
+        "company": "PSTU",
+        "description": "Бизнес-экономика"
+      },
+      {
+        "year": "1999",
+        "title": "Бакалавр экономики (SeQF 6)",
+        "company": "PSTU",
+        "description": "Экономика"
+      },
+      {
+        "year": "2000-2002",
+        "title": "Аспирантура (незавершенная)",
+        "company": "PSTU",
+        "description": "Организация планирования и экономика предприятия"
+      }
+    ],
+    "skills": [
+      "Цифровая автоматизация процессов",
+      "Управленческий и налоговый учет",
+      "KPI и дизайн дашбордов",
+      "Оптимизация затрат и налогов",
+      "Организационный дизайн",
+      "Анализ данных и прогнозирование",
+      "Коучинг и лидерство команды"
+    ],
+    "personalSkillsItems": [
+      "Лидерство",
+      "Коммуникация",
+      "Креативность",
+      "Организация",
+      "Управление"
+    ],
+    "languageSkills": [
+      { "name": "Swedish", "level": "B1" },
+      { "name": "English", "level": "B2" },
+      { "name": "Ukrainian", "level": "C2" },
+      { "name": "Russian", "level": "C2" }
+    ],
+    "certificationItems": [
+      "Консультант по развитию бизнеса — Vysotsky Consulting (2025)",
+      "Специалист по AI-автоматизации — n8n, LangChain, ChatGPT API (2025)",
+      "Python для бизнес-аналитики — Coursera (2024)",
+      "UX/UI и веб-дизайн — Udemy (2023)"
+    ],
+    "keyAchievements": [
+      "50% Process Speed Increase via full ERP automation (2022)",
+      "$150k MRR Turnover restored in 9 months post-COVID through e-commerce launch (2021)",
+      "15% Average tax burden cut for 15 SMEs (2004-2020)"
+    ],
+    "values": ["Lagom", "Förtroende", "Lifelong learning"]
+  },
+  "en": {
+    "name": "Vladyslav Chyzhov",
+    "title": "Business Transformation & Finance Consultant",
+    "downloadPdf": "Download PDF",
+    "downloadDocx": "Download DOCX",
+    "statement": "RESUME",
+    "workExperience": "WORK EXPERIENCE",
+    "education": "EDUCATION",
+    "proSkills": "PROFESSIONAL SKILLS",
+    "personalSkills": "PERSONAL SKILLS",
+    "hobbies": "HOBBIES AND INTERESTS",
+    "languages": "LANGUAGES",
+    "certifications": "CERTIFICATIONS",
+    "statementText": "Business-transformation leader with 20+ years driving profitable growth for trading & industrial SMEs. Build data-driven accounting/KPI systems and automate workflows with Python & ERP. Scaled revenue to $1.8M ARR, cut tax burden 15%, boosted process speed 50%. Ready to replicate success across Scandinavia.",
+    "workItems": [
+      {
+        "year": "2024-2025",
+        "title": "Business Development Consultant",
+        "company": "Vysotsky Consulting, Sweden",
+        "description": "• Coached 20+ SME owners; average EBITDA up 26% in 3 months\n• Removed process bottlenecks (VSM) → lead-time ↓ 18%\n• Designed OKR/KPI suites; rolled out in six companies"
+      },
+      {
+        "year": "2010-2022",
+        "title": "Owner / Chief Executive Officer",
+        "company": "Private Trading Enterprise, Ukraine",
+        "description": "• Scaled firm to 15 FTE, 1000+ SKU, $1.8M ARR\n• Deployed 1C ERP + Excel VBA; manual reporting time ↓ 70%\n• Launched omnichannel sales; turnover ↑ to $150K MRR in nine months"
+      },
+      {
+        "year": "2004-2010",
+        "title": "Freelance Finance Consultant",
+        "company": "Ukraine",
+        "description": "• Built management & tax accounting for 15 SMEs; payments ↓ 15%\n• Trained 40+ accountants/owners in IFRS and BI dashboards"
+      },
+      {
+        "year": "2006-2007",
+        "title": "Export Sales Director",
+        "company": "LLC AzovElitStroy",
+        "description": "Closed $2M steel & gas-cylinder contracts"
+      },
+      {
+        "year": "2000-2006",
+        "title": "Accounting & Finance",
+        "company": "Azov Steel Group",
+        "description": "Led 30 supply-chain audits; losses ↓ 12%"
+      }
+    ],
+    "educationItems": [
+      {
+        "year": "2000",
+        "title": "MSc Business Economics (SeQF 7)",
+        "company": "PSTU",
+        "description": "Business Economics"
+      },
+      {
+        "year": "1999",
+        "title": "BSc Economics (SeQF 6)",
+        "company": "PSTU",
+        "description": "Economics"
+      },
+      {
+        "year": "2000-2002",
+        "title": "PhD coursework (incomplete)",
+        "company": "PSTU",
+        "description": "Organisation Planning & Enterprise Economics"
+      }
+    ],
+    "skills": [
+      "Digital Process Automation",
+      "Management & Tax Accounting",
+      "KPI & Dashboard Design",
+      "Cost & Tax Optimisation",
+      "Organisational Design",
+      "Data Analytics & Forecasting",
+      "Coaching & Team Leadership"
+    ],
+    "personalSkillsItems": [
+      "Leadership",
+      "Communication",
+      "Creativity",
+      "Organization",
+      "Management"
+    ],
+    "languageSkills": [
+      { "name": "Swedish", "level": "B1" },
+      { "name": "English", "level": "B2" },
+      { "name": "Ukrainian", "level": "C2" },
+      { "name": "Russian", "level": "C2" }
+    ],
+    "certificationItems": [
+      "Business Development Consultant — Vysotsky Consulting (2025)",
+      "AI-Automation Specialist — n8n, LangChain, ChatGPT API (2025)",
+      "Python for Business Analytics — Coursera (2024)",
+      "UX/UI & Web Design — Udemy (2023)"
+    ],
+    "keyAchievements": [
+      "50% Process Speed Increase via full ERP automation (2022)",
+      "$150k MRR Turnover restored in 9 months post-COVID through e-commerce launch (2021)",
+      "15% Average tax burden cut for 15 SMEs (2004-2020)"
+    ],
+    "values": ["Lagom", "Trust", "Lifelong learning"]
+  },
+  "sv": {
+    "name": "Vladyslav Chyzhov",
+    "title": "Affärstransformations- och Finanskonsult",
+    "downloadPdf": "Ladda ner PDF",
+    "downloadDocx": "Ladda ner DOCX",
+    "statement": "CV",
+    "workExperience": "ARBETSLIVSERFARENHET",
+    "education": "UTBILDNING",
+    "proSkills": "PROFESSIONELLA FÄRDIGHETER",
+    "personalSkills": "PERSONLIGA EGENSKAPER",
+    "hobbies": "HOBBYER OCH INTRESSEN",
+    "languages": "SPRÅK",
+    "certifications": "CERTIFIERINGAR",
+    "statementText": "Affärstransformationsledare med 20+ års erfarenhet av att driva lönsam tillväxt för handels- och industriföretag. Bygger datadrivna redovisnings-/KPI-system och automatiserar arbetsflöden med Python och ERP. Skalade intäkter till $1.8M ARR, minskade skattebördan med 15%, ökade processhastigheten med 50%. Redo att replikera framgång över hela Skandinavien.",
+    "workItems": [
+      {
+        "year": "2024-2025",
+        "title": "Affärsutvecklingskonsult",
+        "company": "Vysotsky Consulting, Sverige",
+        "description": "• Coachade 20+ småföretagare; genomsnittlig EBITDA upp 26% på 3 månader\n• Eliminerade processflaskhalsar (VSM) → ledtid ↓ 18%\n• Utformade OKR/KPI-system; implementerade i sex företag"
+      },
+      {
+        "year": "2010-2022",
+        "title": "Ägare / VD",
+        "company": "Privat handelsföretag, Ukraina",
+        "description": "• Skalade företaget till 15 anställda, 1000+ artiklar, $1.8M ARR\n• Implementerade 1C ERP + Excel VBA; manuell rapporteringstid ↓ 70%\n• Lanserade omnikanal-försäljning; omsättning ↑ till $150K MRR på nio månader"
+      },
+      {
+        "year": "2004-2010",
+        "title": "Frilans finanskonsult",
+        "company": "Ukraina",
+        "description": "• Byggde ekonomistyrning och skatteredovisning för 15 småföretag; betalningar ↓ 15%\n• Tränade 40+ revisorer/ägare i IFRS och BI-dashboarder"
+      },
+      {
+        "year": "2006-2007",
+        "title": "Exportförsäljningsdirektör",
+        "company": "LLC AzovElitStroy",
+        "description": "Stängde $2M kontrakt för stål och gasflaskor"
+      },
+      {
+        "year": "2000-2006",
+        "title": "Redovisning och finans",
+        "company": "Azov Steel Group",
+        "description": "Ledde 30 leverantörskedje-revisioner; förluster ↓ 12%"
+      }
+    ],
+    "educationItems": [
+      {
+        "year": "2000",
+        "title": "Magisterexamen Företagsekonomi (SeQF 7)",
+        "company": "PSTU",
+        "description": "Företagsekonomi"
+      },
+      {
+        "year": "1999",
+        "title": "Kandidatexamen Ekonomi (SeQF 6)",
+        "company": "PSTU",
+        "description": "Ekonomi"
+      },
+      {
+        "year": "2000-2002",
+        "title": "Forskarutbildning (ofullständig)",
+        "company": "PSTU",
+        "description": "Organisationsplanering och företagsekonomi"
+      }
+    ],
+    "skills": [
+      "Digital processautomatisering",
+      "Ekonomistyrning och skatteredovisning",
+      "KPI och dashboard-design",
+      "Kostnads- och skatteoptimering",
+      "Organisationsdesign",
+      "Dataanalys och prognoser",
+      "Coaching och teamledning"
+    ],
+    "personalSkillsItems": [
+      "Ledarskap",
+      "Kommunikation",
+      "Kreativitet",
+      "Organisation",
+      "Ledning"
+    ],
+    "languageSkills": [
+      { "name": "Svenska", "level": "B1" },
+      { "name": "Engelska", "level": "B2" },
+      { "name": "Ukrainska", "level": "C2" },
+      { "name": "Ryska", "level": "C2" }
+    ],
+    "certificationItems": [
+      "Affärsutvecklingskonsult — Vysotsky Consulting (2025)",
+      "AI-automationsspecialist — n8n, LangChain, ChatGPT API (2025)",
+      "Python för affärsanalys — Coursera (2024)",
+      "UX/UI och webbdesign — Udemy (2023)"
+    ],
+    "keyAchievements": [
+      "50% Process Speed Increase via full ERP automation (2022)",
+      "$150k MRR Turnover restored in 9 months post-COVID through e-commerce launch (2021)",
+      "15% Average tax burden cut for 15 SMEs (2004-2020)"
+    ],
+    "values": ["Lagom", "Förtroende", "Livslångt lärande"]
+  }
+}
+
+

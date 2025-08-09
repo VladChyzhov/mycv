@@ -1,0 +1,96 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://example.com/schemas/resume.schema.json",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["basics", "statementText", "workItems", "educationItems", "skills", "personalSkillsItems", "languageSkills", "certificationItems"],
+  "definitions": {
+    "lang": {
+      "type": "string",
+      "enum": ["sv", "en", "ru"]
+    },
+    "mlString": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["sv", "en", "ru"],
+      "properties": {
+        "sv": { "type": "string" },
+        "en": { "type": "string" },
+        "ru": { "type": "string" }
+      }
+    },
+    "resumeItemML": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["year", "title", "company", "description"],
+      "properties": {
+        "year": { "type": "string" },
+        "title": { "$ref": "#/definitions/mlString" },
+        "company": { "$ref": "#/definitions/mlString" },
+        "description": { "$ref": "#/definitions/mlString" }
+      }
+    },
+    "languageSkillML": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "level"],
+      "properties": {
+        "name": { "$ref": "#/definitions/mlString" },
+        "level": { "type": "string" }
+      }
+    },
+    "labels": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["downloadPdf", "downloadDocx", "statement", "workExperience", "education", "proSkills", "personalSkills", "hobbies", "languages", "certifications"],
+      "properties": {
+        "downloadPdf": { "$ref": "#/definitions/mlString" },
+        "downloadDocx": { "$ref": "#/definitions/mlString" },
+        "statement": { "$ref": "#/definitions/mlString" },
+        "workExperience": { "$ref": "#/definitions/mlString" },
+        "education": { "$ref": "#/definitions/mlString" },
+        "proSkills": { "$ref": "#/definitions/mlString" },
+        "personalSkills": { "$ref": "#/definitions/mlString" },
+        "hobbies": { "$ref": "#/definitions/mlString" },
+        "languages": { "$ref": "#/definitions/mlString" },
+        "certifications": { "$ref": "#/definitions/mlString" }
+      }
+    },
+    "basics": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "title", "location", "website", "phone", "email", "labels"],
+      "properties": {
+        "name": { "$ref": "#/definitions/mlString" },
+        "title": { "$ref": "#/definitions/mlString" },
+        "location": { "$ref": "#/definitions/mlString" },
+        "website": { "type": "string" },
+        "phone": { "type": "string" },
+        "email": { "type": "string", "format": "email" },
+        "summary": { "$ref": "#/definitions/mlString" },
+        "labels": { "$ref": "#/definitions/labels" }
+      }
+    }
+  },
+  "properties": {
+    "basics": { "$ref": "#/definitions/basics" },
+    "statementText": { "$ref": "#/definitions/mlString" },
+    "workItems": { "type": "array", "items": { "$ref": "#/definitions/resumeItemML" } },
+    "educationItems": { "type": "array", "items": { "$ref": "#/definitions/resumeItemML" } },
+    "skills": { "type": "array", "items": { "$ref": "#/definitions/mlString" } },
+    "personalSkillsItems": { "type": "array", "items": { "$ref": "#/definitions/mlString" } },
+    "languageSkills": { "type": "array", "items": { "$ref": "#/definitions/languageSkillML" } },
+    "certificationItems": { "type": "array", "items": { "$ref": "#/definitions/mlString" } },
+    "keyAchievements": { "type": "array", "items": { "$ref": "#/definitions/mlString" } },
+    "values": { "type": "array", "items": { "$ref": "#/definitions/mlString" } },
+    "meta": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "order": { "type": "array", "items": { "type": "string" } }
+      }
+    }
+  }
+}
+
+
